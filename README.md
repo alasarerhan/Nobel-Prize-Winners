@@ -1,2 +1,2 @@
 # Nobel-Prize-Winners
-Nobel Prize Winners Analysis
+This is a Nobel Prize Winners Analysis Project which i completed during a data analytics bootcamp 
